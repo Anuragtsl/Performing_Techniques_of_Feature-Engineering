@@ -2,9 +2,9 @@
 
 I've performed different techniques of Feature Engineering on Multiple Datasets.
 
-I have used [Jupyter notebook]() for coding.
+I have used [Jupyter notebook](https://jupyter.org/) for coding!
 
-**Download the datasets from here:- [data1](), [data2](), [data3](), [data4]()!!**
+**Download the datasets from here:- [data1](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/sendy_logistics.csv), [data2](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/traindemographics.csv), [data3](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/trainperf.csv), [data4](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/trainprevloans.csv)!!**
 
 # A Practical Guide to Feature Engineering in Python
 
