@@ -45,11 +45,11 @@ In this notebook, we have learnt about some of the techniques and tools for perf
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/Performing_Techniques_of_Feature-Engineering/blob/main/Images/3.png)
 
 
 #Njoy!
